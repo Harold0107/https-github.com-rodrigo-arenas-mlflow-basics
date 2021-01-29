@@ -1,2 +1,3 @@
 # mlflow-basics
-Project for Medium article about mlflow
+Project for a Medium article about mlflow
+
