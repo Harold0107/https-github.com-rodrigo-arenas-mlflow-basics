@@ -1,6 +1,6 @@
 import mlflow
 import pandas as pd
-logged_model = 'wasbs://<MY-STORAGE-URI>/runs/<EXPERIMENT_ID>/<RUN_ID>/artifacts/model'
+logged_model = 'models:/Wine_Elasticnet_Sklearn_Regressor/Production'
 
 data = pd.read_csv('winequality-red.csv')
 
